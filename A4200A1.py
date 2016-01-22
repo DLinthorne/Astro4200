@@ -4,7 +4,8 @@ from astropy.io import fits
 import os
 
 
-
+''' This is the directory on MY computer, for your computer, change this to where your 
+fits files are.  '''
 Directory = ('/home/nick/Desktop/School/Astro4200/MZCYG')
 
 ''' LIST OF ALL OF THE STARS IN THE DIRECTORY THAT ARE FITS FILES. '''
